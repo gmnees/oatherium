@@ -1,5 +1,8 @@
-## GitCoin
+## Oatherium
 
+Oatherium is a crypto-currency based on open source gitcoin
+
+[https://github.com/gmnees/oatherium](https://github.com/gmnees/oatherium)
 [http://git-coin.herokuapp.com/gitcoins](http://git-coin.herokuapp.com/gitcoins)
 
 GitCoin is a simplistic bitcoin simulator which uses SHA1 Digests of
